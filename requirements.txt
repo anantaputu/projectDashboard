@@ -3,4 +3,4 @@ requests
 openpyxl
 pandas
 datetime
-BeautifulSoup
+beautifulSoup4
